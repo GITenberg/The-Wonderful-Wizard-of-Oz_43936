@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Denslow, W. W. (William Wallace)
     alias: Denslow, William Wallace
-    birthdate: &id001 1856
+    birthdate: 1856
     deathdate: 1915
     gutenberg_agent_id: '8101'
     url: http://www.gutenberg.org/2009/agents/8101
@@ -24,7 +24,7 @@ creator:
     - Fitzgerald, Hugh
     - Akers, Floyd
     - Van Dyne, Edith
-    birthdate: *id001
+    birthdate: 1856
     deathdate: 1919
     gutenberg_agent_id: '42'
     url: http://www.gutenberg.org/2009/agents/42
@@ -46,6 +46,8 @@ description: "The Wonderful Wizard of Oz () is an American children's novel writ
   \ the first edition, a total of 10,000 copies, which quickly sold out. The Wonderful\
   \ Wizard of Oz sold three million copies by the time it entered the public domain\
   \ in 1956.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43936#The-Wonderful-Wizard-of-Oz
 gutenberg_issued: '2013-10-12'
 gutenberg_type: Text
 identifiers:
