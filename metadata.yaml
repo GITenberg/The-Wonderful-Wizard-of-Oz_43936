@@ -1,0 +1,128 @@
+_repo: The-Wonderful-Wizard-of-Oz_43936
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Denslow, W. W. (William Wallace)
+    alias: Denslow, William Wallace
+    birthdate: &id001 1856
+    deathdate: 1915
+    gutenberg_agent_id: '8101'
+    url: http://www.gutenberg.org/2009/agents/8101
+    wikipedia: http://en.wikipedia.org/wiki/William_Wallace_Denslow
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Cooke, John Estes
+    - Baum, Lyman Frank
+    - Metcalf, Suzanne
+    - Fitzgerald, Capt. Hugh
+    - Bancroft, Laura
+    - Fitzgerald, Hugh
+    - Akers, Floyd
+    - Van Dyne, Edith
+    birthdate: *id001
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: "The Wonderful Wizard of Oz () is an American children's novel written\
+  \ by author L. Frank Baum and illustrated by W. W. Denslow, originally published\
+  \ by the George M. Hill Company in Chicago on May 17, 1900. It has since been reprinted\
+  \ on numerous occasions, most often under the title The Wizard of Oz, which is the\
+  \ title of the popular 1902 Broadway musical adaptation as well as the iconic 1939\
+  \ musical film adaptation.\nThe story chronicles the adventures of a young farm\
+  \ girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are\
+  \ swept away from their Kansas home by a cyclone. The novel is one of the best-known\
+  \ stories in American literature and has been widely translated. The Library of\
+  \ Congress has declared it \"America's greatest and best-loved homegrown fairytale\"\
+  . Its groundbreaking success and the success of the Broadway musical adapted from\
+  \ the novel led Baum to write thirteen additional Oz books that serve as official\
+  \ sequels to the first story.\nBaum dedicated the book \"to my good friend & comrade,\
+  \ My Wife\", Maud Gage Baum. In January 1901, George M. Hill Company completed printing\
+  \ the first edition, a total of 10,000 copies, which quickly sold out. The Wonderful\
+  \ Wizard of Oz sold three million copies by the time it entered the public domain\
+  \ in 1956.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2013-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43936'
+  wikidata: Q130295
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tin Woodman (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Wizard of Oz (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Toto (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Cowardly Lion (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Home -- Juvenile fiction'
+- !lcsh 'Good and evil -- Juvenile fiction'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- !lcsh 'Dreams -- Juvenile fiction'
+- !lcsh 'Cyclones -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Gale, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Witches -- Juvenile fiction'
+- !lcsh 'Scarecrow (Fictitious character from Baum) -- Juvenile fiction'
+title: The Wonderful Wizard of Oz
+url: http://www.gutenberg.org/ebooks/43936
+wikipedia:
+- https://fi.wikipedia.org/wiki/Ihmemaa_Oz_(kirja)
+- https://eo.wikipedia.org/wiki/La_mirinda_sor%C4%89isto_de_Oz
+- https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D8%AF%D9%88%DA%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D8%A7%D8%B2_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://ko.wikisource.org/wiki/%EC%98%A4%EC%A6%88%EC%9D%98_%EB%A7%88%EB%B2%95%EC%82%AC
+- https://en.wikisource.org/wiki/The_Wonderful_Wizard_of_Oz
+- https://uk.wikipedia.org/wiki/%D0%94%D0%B8%D0%B2%D0%BE%D0%B2%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D1%87%D0%B0%D1%80%D1%96%D0%B2%D0%BD%D0%B8%D0%BA_%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_%D0%9E%D0%B7
+- https://kk.wikipedia.org/wiki/%D0%9E%D0%B7_%D3%99%D0%BB%D0%B5%D0%BC%D1%96%D0%BD%D1%96%D2%A3_%D1%82%D0%B0%D2%A3%D2%93%D0%B0%D0%B6%D0%B0%D0%B9%D1%8B%D0%BF_%D1%81%D0%B8%D2%9B%D1%8B%D1%80%D1%88%D1%8B%D1%81%D1%8B
+- https://gl.wikipedia.org/wiki/O_marabilloso_mago_de_Oz
+- https://bs.wikiquote.org/wiki/%C4%8Carobnjak_iz_Oza
+- https://he.wikiquote.org/wiki/%D7%94%D7%A7%D7%95%D7%A1%D7%9D_%D7%9E%D7%90%D7%A8%D7%A5_%D7%A2%D7%95%D7%A5
+- https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BA%E3%81%AE%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84
+- https://pt.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz
+- https://es.wikipedia.org/wiki/El_maravilloso_mago_de_Oz
+- https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz
+- https://ru.wikipedia.org/wiki/%D0%A3%D0%B4%D0%B8%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA_%D0%B8%D0%B7_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%8B_%D0%9E%D0%B7
+- https://bn.wikipedia.org/wiki/%E0%A6%A6%E0%A7%8D%E0%A6%AF_%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B0%E0%A6%AB%E0%A7%81%E0%A6%B2_%E0%A6%89%E0%A6%87%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1_%E0%A6%85%E0%A6%AC_%E0%A6%85%E0%A6%9C
+- https://ro.wikipedia.org/wiki/Vr%C4%83jitorul_din_Oz
+- https://ko.wikipedia.org/wiki/%EC%98%A4%EC%A6%88%EC%9D%98_%EB%A7%88%EB%B2%95%EC%82%AC
+- https://zh-min-nan.wikipedia.org/wiki/Oz_%C3%AA_T%C5%8Da_Su%CC%8Dt-s%C5%AB
+- https://et.wikipedia.org/wiki/V%C3%B5lur_Oz
+- https://fr.wikipedia.org/wiki/Le_Magicien_d%27Oz
+- https://sh.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz
+- https://zh.wikipedia.org/wiki/%E7%BB%BF%E9%87%8E%E4%BB%99%E8%B8%AA_(%E7%AB%A5%E8%AF%9D)
+- https://ca.wikiquote.org/wiki/El_meravell%C3%B3s_M%C3%A0gic_d%27Oz
+- https://pl.wikipedia.org/wiki/Czarnoksi%C4%99%C5%BCnik_z_Krainy_Oz
+- https://da.wikipedia.org/wiki/Troldmanden_fra_Oz
+- https://simple.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz
+- https://be-tarask.wikipedia.org/wiki/%D0%94%D0%B7%D1%96%D1%9E%D0%BD%D1%8B_%D0%A7%D0%B0%D1%80%D0%B0%D1%9E%D0%BD%D1%96%D0%BA_%D0%B7_%D0%BA%D1%80%D0%B0%D1%96%D0%BD%D1%8B_%D0%9E%D0%B7
+- https://sv.wikipedia.org/wiki/Trollkarlen_fr%C3%A5n_Oz_(bok)
+- https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%94%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%8B
+- https://be.wikipedia.org/wiki/%D0%94%D0%B7%D1%96%D1%9E%D0%BD%D1%8B_%D0%A7%D0%B0%D1%80%D0%B0%D1%9E%D0%BD%D1%96%D0%BA_%D0%BA%D1%80%D0%B0%D1%96%D0%BD%D1%8B_%D0%9E%D0%B7_(%D0%BA%D0%BD%D1%96%D0%B3%D0%B0)
+- https://hu.wikipedia.org/wiki/Oz,_a_nagy_var%C3%A1zsl%C3%B3
+- https://is.wikipedia.org/wiki/Galdrakarlinn_%C3%AD_Oz
+- https://ka.wikipedia.org/wiki/%E1%83%9D%E1%83%96%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%90%E1%83%9D%E1%83%AA%E1%83%90%E1%83%A0%E1%83%98_%E1%83%AF%E1%83%90%E1%83%93%E1%83%9D%E1%83%A5%E1%83%90%E1%83%A0%E1%83%98
+- https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D8%AD%D8%B1_%D8%A3%D9%88%D8%B2_%D8%A7%D9%84%D8%B9%D8%AC%D9%8A%D8%A8
+- https://nl.wikipedia.org/wiki/De_tovenaar_van_Oz
+- https://id.wikipedia.org/wiki/Penyihir_Oz
+- https://pt.wikiquote.org/wiki/M%C3%A1gico_de_Oz,_O
+- https://cs.wikipedia.org/wiki/%C4%8Carod%C4%9Bj_ze_zem%C4%9B_Oz
+- https://de.wikipedia.org/wiki/Der_Zauberer_von_Oz
+- https://ur.wikipedia.org/wiki/%D8%A7%D9%88%D8%B2_%DA%A9%D8%A7_%D9%86%D8%B1%D8%A7%D9%84%D8%A7_%D8%AC%D8%A7%D8%AF%D9%88%DA%AF%D8%B1
+- https://lv.wikipedia.org/wiki/Br%C4%ABnumainais_burvis_no_Oza_zemes
+- https://ml.wikipedia.org/wiki/%E0%B4%93%E0%B4%B8%E0%B5%8D_%E0%B4%A8%E0%B4%97%E0%B4%B0%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BF%E0%B4%B2%E0%B5%86_%E0%B4%AE%E0%B4%BE%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B4%95%E0%B5%BB
+- https://cy.wikipedia.org/wiki/Dewin_Gwlad_yr_Os
+- https://bg.wikipedia.org/wiki/%D0%92%D1%8A%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA%D1%8A%D1%82_%D0%BE%D1%82_%D0%9E%D0%B7
+- https://it.wikipedia.org/wiki/Il_meraviglioso_mago_di_Oz
+- https://no.wikipedia.org/wiki/Trollmannen_fra_Oz
+- https://hr.wikipedia.org/wiki/%C4%8Carobnjak_iz_Oza_(roman)
+- https://ca.wikipedia.org/wiki/El_m%C3%A0gic_d%27Oz
+- https://he.wikipedia.org/wiki/%D7%94%D7%A7%D7%95%D7%A1%D7%9D_%D7%9E%D7%90%D7%A8%D7%A5_%D7%A2%D7%95%D7%A5
+- https://tr.wikipedia.org/wiki/Oz_B%C3%BCy%C3%BCc%C3%BCs%C3%BC
+- https://es.wikiquote.org/wiki/El_maravilloso_mago_Oz
